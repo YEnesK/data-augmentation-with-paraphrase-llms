@@ -1,5 +1,4 @@
 # Data Augmentation with Large Language Models  
-*Kolektif Öğrenme 2024/1 – Project 6*
 
 ## 1 · Datasets  
 * **IMDB** – binary (positive/negative) movie-review classification  
