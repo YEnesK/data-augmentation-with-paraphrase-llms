@@ -21,4 +21,4 @@ Each dataset is loaded, trimmed, and label-balanced in `dataset.ipynb`, then sav
 | IMDB     | 82 %          | 88 % (×3 train) | 89 % (×4 test)          | +7 pp |
 | AG News  | 81 %          | 91 % (×5 train) | 92 % (×6 test)          | +11 pp |
 
-Augmentation yields steady accuracy improvements on AG News and notable gains on IMDB; the ensemble of original + augmented views consistently outperforms single-view inference. For full tables and plots see `Rapor.pdf` §VI.
+Augmentation yields steady accuracy improvements on AG News and notable gains on IMDB; the ensemble of original + augmented views consistently outperforms single-view inference. For full tables and plots see `Rapor.pdf`.
